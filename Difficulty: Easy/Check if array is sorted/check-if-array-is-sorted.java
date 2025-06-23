@@ -1,5 +1,4 @@
 
-
 class Solution {
     public boolean arraySortedOrNot(int[] arr) {
         // code here
